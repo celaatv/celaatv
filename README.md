@@ -1,9 +1,11 @@
-# ✨ celaatv!
+# ✨ celaatv
 
 ![Header](https://i.pinimg.com/originals/60/e1/c3/60e1c3dfcc9e37a457875a1c3344066e.gif)
 
 ## 🚀 About Me
 **`Software Developer`**
+
+I am currently a high school student in North Rhine-Westphalia, Germany, working towards my final exams (equivalent to A-levels). Alongside my studies, I have a deep passion for programming, which I actively pursue in my free time. My primary focus is on software development, particularly in the realm of game server management and plugin development, with a specialization in Minecraft. Balancing my education and programming projects has enhanced both my technical abilities and my organizational skills.
 
 - 🔭 I’m currently working on: **Minecraft Server Development**
 
