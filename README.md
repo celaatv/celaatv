@@ -3,7 +3,7 @@
 ![Header](https://i.pinimg.com/originals/60/e1/c3/60e1c3dfcc9e37a457875a1c3344066e.gif)
 
 ## 🚀 About Me
-**`Software Developer`** | 17 year old
+**`Software Developer`** | 17 years old
 
 - 🔭 I’m currently working on: **Minecraft Server Development**
 
@@ -22,8 +22,8 @@
 
 ### **Frameworks & Tools**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/minecraft-logo.png" alt="Minecraft" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/idea.png" alt="IntelliJ IDEA" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-intellij-idea-a-capable-and-ergonomic-ide-for-jvm-java-tal-revivo-filled-tal-revivo.png" alt="IntelliJ IDEA" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/minecraft-sword.png" alt="Minecraft" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" height="40"/>
 </p>
@@ -49,4 +49,3 @@
 
 ## 🌐 Connect with me:
 - **Discord:** celaa
-
