@@ -1,4 +1,4 @@
-# ✨ I'm celaatv!
+# ✨ celaatv!
 
 ![Header](https://i.pinimg.com/originals/60/e1/c3/60e1c3dfcc9e37a457875a1c3344066e.gif)
 
@@ -22,8 +22,10 @@
 
 ### **Frameworks & Tools**
 <p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-intellij-idea-a-capable-and-ergonomic-ide-for-jvm-java-tal-revivo-filled-tal-revivo.png" alt="IntelliJ IDEA" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/minecraft-sword.png" alt="Minecraft" height="40"/>
+  <img src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paper-5A5A5A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bukkit-C51A4A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" height="40"/>
 </p>
