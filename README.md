@@ -1,9 +1,9 @@
-# Hi there 👋 I'm celaatv!
+# ✨ I'm celaatv!
 
-![Header](https://imgur.com/your-image-link-here)
+![Header](https://avatars.githubusercontent.com/u/77215200?v=4)
 
 ## 🚀 About Me
-I am a software developer with a passion for creating Minecraft plugins and working on backend systems. My current focus lies in game server development and crafting immersive experiences.
+**`Software developer`**
 
 - 🔭 I’m currently working on: Minecraft Server Development
 - 🌱 I’m learning: New Minecraft Plugin APIs and optimization techniques
