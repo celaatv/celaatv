@@ -3,7 +3,7 @@
 ![Header](https://i.pinimg.com/originals/60/e1/c3/60e1c3dfcc9e37a457875a1c3344066e.gif)
 
 ## 🚀 About Me
-**`Software Developer`** | 17 years old
+**`Software Developer`**
 
 - 🔭 I’m currently working on: **Minecraft Server Development**
 
@@ -42,7 +42,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=celaatv&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celaatv&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
