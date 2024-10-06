@@ -47,5 +47,5 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Contact
 - **Discord:** celaa
