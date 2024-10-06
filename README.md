@@ -22,10 +22,8 @@
 
 ### **Frameworks & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paper-5A5A5A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bukkit-C51A4A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/minecraft-logo.png" alt="Minecraft" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/idea.png" alt="IntelliJ IDEA" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" height="40"/>
 </p>
